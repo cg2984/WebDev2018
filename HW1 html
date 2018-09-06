@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <style>
+      h1{color:green}
+      p{color:orange}
+      footer{color:grey}
+    </style>
+  </head>
+  <body>
+    <h1>Clara's Website</h1>
+    <p> This is a website that I made. It contains a list of my favorite colors in order, a cool dog, and a link to the Wikipedia page for dogs. 
+    <article>Information Information Information</article>
+    <img src="https://assets.rbl.ms/2589931/980x.jpg" alt="Image not loaded">
+    <a href="https://en.wikipedia.org/wiki/Dog">Here's more information on this animal!</a> 
+    
+    <p>My Favorite Colors</p>
+    <ol>
+      <li style="color:red">Red</li>
+      <li style="color:blue">Blue</li>
+      <li style="color:green">Green</li>
+      <li style="color:black">Black</li>
+      <li style="color:purple">Purple</li>
+    </ol>
+    <footer> Clara's Stuff</footer>
+  </body>
+</html>
